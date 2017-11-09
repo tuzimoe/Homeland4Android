@@ -9,7 +9,7 @@
         android:layout_height="50dp"
         android:background="@color/colorTopBar">
 
-        <org.mstudio.homeland4android.ui.topics.UserWithNumbersView
+        <moe.eloli.tuzi.ui.topics.UserWithNumbersView
             android:id="@+id/btnUser"
             android:layout_width="60dp"
             android:layout_height="30dp"
@@ -27,15 +27,15 @@
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:layout_marginTop="8dp"
-            android:text="Ruby China"
+            android:text="Eloli学院"
             android:textAlignment="center"
             android:textColor="@android:color/white"
             android:textSize="22sp"
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
-            app:layout_constraintRight_toRightOf="parent" />
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
 
         <com.mikepenz.iconics.view.IconicsImageView
             android:id="@+id/btnTopicFilter"

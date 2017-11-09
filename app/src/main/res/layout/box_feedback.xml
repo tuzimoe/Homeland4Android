@@ -29,7 +29,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
-            android:text="加载数据失败 请检查网络" />
+            android:text="发生了什么不得了的事情 少女祈祷中" />
 
         <mehdi.sakout.fancybuttons.FancyButton xmlns:fancy="http://schemas.android.com/apk/res-auto"
             android:id="@+id/btnReloadFromFailed"

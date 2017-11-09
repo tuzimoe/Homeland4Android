@@ -2,7 +2,7 @@
 <resources>
     <paths>
         <external-path name="camera_photos" path=".">
-            <external-path name="files_root" path="Android/data/Homeland4A/camera">
+            <external-path name="files_root" path="Android/data/Eloli/camera">
                 <external-path name="external_storage_root" path=".">
                 </external-path>
             </external-path>

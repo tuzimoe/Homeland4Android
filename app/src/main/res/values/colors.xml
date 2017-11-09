@@ -4,10 +4,10 @@
     <color name="colorPrimaryDark">#a8abcd</color>
     <color name="colorAccent">#b8a8cd</color>
 
-    <color name="colorTopBar">#9b000e</color>
-    <color name="colorTopBarButton">#b90011</color>
-    <color name="colorTopBarButtonFocused">#8c000d</color>
-    <color name="colorTopBarButtonBorder">#8c000d</color>
+    <color name="colorTopBar">#ff5060</color>
+    <color name="colorTopBarButton">#ff8e98</color>
+    <color name="colorTopBarButtonFocused">#ff5867</color>
+    <color name="colorTopBarButtonBorder">#ffb7be</color>
 
     <color name="colorStatusBar">#aaaaaa</color>
     <color name="colorStatusBarButton">#cccccc</color>
