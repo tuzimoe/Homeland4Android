@@ -1,19 +1,12 @@
 package moe.eloli.tuzi.data;
 
+import javax.inject.Inject;
+
+import io.reactivex.Observable;
 import moe.eloli.tuzi.data.network.OAuthService;
 import moe.eloli.tuzi.data.network.model.raw.RawToken;
 import moe.eloli.tuzi.util.AppConstant;
 
-import javax.inject.Inject;
-
-import io.reactivex.Observable;
-
-/**
- * author : Macrow
- * e-mail : Macrow_wh@163.com
- * time   : 2017/06/05
- * desc   :
- */
 public class OAuthDataManager {
 
     private OAuthService mOAuthService;
